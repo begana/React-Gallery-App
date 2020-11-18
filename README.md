@@ -1,2 +1,2 @@
-# React Gallery App
+# tech-degree-project-7
  
